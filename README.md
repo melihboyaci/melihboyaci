@@ -1,115 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Melih+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Game+Developer;Android+Developer;Always+learning+new+things!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Melih+%F0%9F%91%8B;Computer+Vision+%26+AI+Engineer;Building+things+that+actually+work" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate developer with a deep interest in cutting-edge technologies and creative solutions. My journey spans across multiple domains where technology meets innovation.
+Computer Engineering student at Pamukkale University (4th year), focused on **Computer Vision** and **AI/ML systems**.
 
-- 🤖 **AI & Machine Learning**: Building intelligent systems that learn and adapt
-- 🎮 **Game Development**: Creating immersive experiences and interactive entertainment
-- 📱 **Android Development**: Crafting mobile solutions that make a difference
-- 🌱 **Always Learning**: Exploring new technologies and pushing boundaries
+I don't just train models — I care about why they work, what breaks them, and how to build them properly.
 
----
-
-## 🛠️ Tech Stack
-
-### 🧠 AI & Machine Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</div>
-
-### 🎮 Game Development
-<div align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-</div>
-
-### 📱 Android Development
-<div align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</div>
-
-### 🔧 Tools & Technologies
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-</div>
+- 🔭 Currently exploring ML system design and production-ready AI architectures  
+- 🧠 Interested in the intersection of deep learning, system design, and software craftsmanship  
+- 🛠️ I use AI tools actively (Claude, Windsurf, NotebookLM) — and I think critically about how I use them  
+- 📍 Denizli, Turkey
 
 ---
 
-## 📊 GitHub Stats
+## Projects
+
+### 🥋 Real-Time Skeleton-Based Violence Detection
+> **YOLOv8n-Pose + GRU** — Image Processing Course Project
+
+Real-time violence detection using pose estimation and temporal sequence modeling. YOLOv8n-Pose extracts skeleton keypoints per frame; a GRU network classifies motion patterns across time.
+
+`Python` `PyTorch` `YOLOv8` `OpenCV` `GRU`
+
+---
+
+### 🐢 Sea Turtle Facial Recognition System
+> **ResNet50 + Triplet Loss** — Multi-Agent Architecture
+
+Individual sea turtle identification via facial features. Built a multi-agent Supervisor/Workers/BlackBoard architecture in pure Python. Fine-tuned ResNet50 with Triplet Loss, CLAHE preprocessing, Gemini Vision integration, FastAPI + JS frontend.
+
+`Python` `PyTorch` `ResNet50` `Triplet Loss` `FastAPI` `Gemini Vision`
+
+---
+
+### 🔧 Log Middleware System
+> **Software Engineering Course — Design Patterns**
+
+Chain of Responsibility + Strategy + Factory Method patterns implemented in a production-style log middleware. Containerized with Docker, documented with full system design rationale.
+
+`Docker` `Design Patterns` `Software Architecture`
+
+---
+
+## Tech Stack
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melih&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melihboyaci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melih&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihboyaci&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melih&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihboyaci&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Currently
 
-- 🔬 **Deep Learning**: Exploring neural networks and advanced AI architectures
-- 🕹️ **Game AI**: Implementing intelligent NPCs and procedural generation
-- 📲 **Mobile Innovation**: Building next-generation Android applications
-- 🤝 **Open Source**: Contributing to the developer community
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melih&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+- 📖 Reading *The Pragmatic Programmer* — thinking about software craft, not just code
+- 🏗️ Learning ML system design: how models survive in production
+- 🎯 Looking for internship opportunities in AI/ML or backend engineering
 
 ---
 
-## 📫 Let's Connect!
+## Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/melihboyaci">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="mailto:melihboyaci@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melih&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave Footer"/>
+  <img src="https://komarev.com/ghpvc/?username=melihboyaci&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
